@@ -1,0 +1,1 @@
+openfootball/champions-league commit abfaeddc2ee3d14f99ecc163c9ddb46cb4d67cef (2026-07-02), https://github.com/openfootball/champions-league, licence CC0 1.0
