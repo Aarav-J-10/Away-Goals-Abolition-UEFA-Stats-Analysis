@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "Away-Goals Abolition UEFA Stats Analysis: verified tie-level data and code"
+authors:
+  - family-names: Jalan
+    given-names: Aarav
+    affiliation: "Adani International School, Ahmedabad, India"
+date-released: 2026-10-21
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Aarav-J-10/Away-Goals-Abolition-UEFA-Stats-Analysis"
+keywords: [away goals rule, UEFA Champions League, UEFA Europa League, football, sports statistics]
