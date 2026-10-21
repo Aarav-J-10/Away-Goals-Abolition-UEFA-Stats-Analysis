@@ -1,0 +1,16 @@
+,pre,post
+n_ties,338.0,195.0
+leg1_goals_mean,2.565,2.821
+leg1_goals_sd,1.582,1.706
+leg2_goals90_mean,2.846,3.051
+leg2_goals90_sd,1.674,1.801
+leg2_goals_final_mean,2.956,3.226
+tie_goals180_mean,5.411,5.872
+away_side_goals180_mean,2.272,2.538
+level_after_180_pct,15.68,17.436
+away_goals_would_decide_pct,7.396,9.231
+extra_time_pct,8.284,17.436
+penalties_pct,2.663,7.692
+comeback_eligible_n,253.0,145.0
+comeback_pct,21.344,24.138
+leg2_host_advanced_pct,57.692,60.0

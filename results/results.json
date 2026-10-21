@@ -1,0 +1,2427 @@
+{
+ "samples": {
+  "primary": {
+   "post": 139,
+   "pre": 210
+  },
+  "extended": {
+   "post": 195,
+   "pre": 338
+  },
+  "draft_477": {
+   "post": 139,
+   "pre": 338
+  },
+  "primary_by_comp_round": [
+   {
+    "rule_era": "post",
+    "competition": "UCL",
+    "round": "Quarter-finals",
+    "n": 20
+   },
+   {
+    "rule_era": "post",
+    "competition": "UCL",
+    "round": "Round of 16",
+    "n": 40
+   },
+   {
+    "rule_era": "post",
+    "competition": "UCL",
+    "round": "Semi-finals",
+    "n": 10
+   },
+   {
+    "rule_era": "post",
+    "competition": "UEL",
+    "round": "Quarter-finals",
+    "n": 20
+   },
+   {
+    "rule_era": "post",
+    "competition": "UEL",
+    "round": "Round of 16",
+    "n": 39
+   },
+   {
+    "rule_era": "post",
+    "competition": "UEL",
+    "round": "Semi-finals",
+    "n": 10
+   },
+   {
+    "rule_era": "pre",
+    "competition": "UCL",
+    "round": "Quarter-finals",
+    "n": 28
+   },
+   {
+    "rule_era": "pre",
+    "competition": "UCL",
+    "round": "Round of 16",
+    "n": 64
+   },
+   {
+    "rule_era": "pre",
+    "competition": "UCL",
+    "round": "Semi-finals",
+    "n": 14
+   },
+   {
+    "rule_era": "pre",
+    "competition": "UEL",
+    "round": "Quarter-finals",
+    "n": 28
+   },
+   {
+    "rule_era": "pre",
+    "competition": "UEL",
+    "round": "Round of 16",
+    "n": 62
+   },
+   {
+    "rule_era": "pre",
+    "competition": "UEL",
+    "round": "Semi-finals",
+    "n": 14
+   }
+  ],
+  "extended_by_round": [
+   {
+    "rule_era": "post",
+    "round": "Knockout play-offs",
+    "n": 56
+   },
+   {
+    "rule_era": "post",
+    "round": "Quarter-finals",
+    "n": 40
+   },
+   {
+    "rule_era": "post",
+    "round": "Round of 16",
+    "n": 79
+   },
+   {
+    "rule_era": "post",
+    "round": "Semi-finals",
+    "n": 20
+   },
+   {
+    "rule_era": "pre",
+    "round": "Quarter-finals",
+    "n": 56
+   },
+   {
+    "rule_era": "pre",
+    "round": "Round of 16",
+    "n": 126
+   },
+   {
+    "rule_era": "pre",
+    "round": "Round of 32",
+    "n": 128
+   },
+   {
+    "rule_era": "pre",
+    "round": "Semi-finals",
+    "n": 28
+   }
+  ]
+ },
+ "descriptives_primary": {
+  "pre": {
+   "n_ties": 210.0,
+   "leg1_goals_mean": 2.662,
+   "leg1_goals_sd": 1.582,
+   "leg2_goals90_mean": 2.967,
+   "leg2_goals90_sd": 1.718,
+   "leg2_goals_final_mean": 3.114,
+   "tie_goals180_mean": 5.629,
+   "away_side_goals180_mean": 2.29,
+   "level_after_180_pct": 18.571,
+   "away_goals_would_decide_pct": 8.095,
+   "extra_time_pct": 10.476,
+   "penalties_pct": 3.333,
+   "comeback_eligible_n": 163.0,
+   "comeback_pct": 22.699,
+   "leg2_host_advanced_pct": 56.667
+  },
+  "post": {
+   "n_ties": 139.0,
+   "leg1_goals_mean": 2.676,
+   "leg1_goals_sd": 1.716,
+   "leg2_goals90_mean": 3.022,
+   "leg2_goals90_sd": 1.832,
+   "leg2_goals_final_mean": 3.158,
+   "tie_goals180_mean": 5.698,
+   "away_side_goals180_mean": 2.36,
+   "level_after_180_pct": 15.108,
+   "away_goals_would_decide_pct": 8.633,
+   "extra_time_pct": 15.108,
+   "penalties_pct": 7.194,
+   "comeback_eligible_n": 101.0,
+   "comeback_pct": 24.752,
+   "leg2_host_advanced_pct": 58.273
+  }
+ },
+ "descriptives_extended": {
+  "pre": {
+   "n_ties": 338.0,
+   "leg1_goals_mean": 2.565,
+   "leg1_goals_sd": 1.582,
+   "leg2_goals90_mean": 2.846,
+   "leg2_goals90_sd": 1.674,
+   "leg2_goals_final_mean": 2.956,
+   "tie_goals180_mean": 5.411,
+   "away_side_goals180_mean": 2.272,
+   "level_after_180_pct": 15.68,
+   "away_goals_would_decide_pct": 7.396,
+   "extra_time_pct": 8.284,
+   "penalties_pct": 2.663,
+   "comeback_eligible_n": 253.0,
+   "comeback_pct": 21.344,
+   "leg2_host_advanced_pct": 57.692
+  },
+  "post": {
+   "n_ties": 195.0,
+   "leg1_goals_mean": 2.821,
+   "leg1_goals_sd": 1.706,
+   "leg2_goals90_mean": 3.051,
+   "leg2_goals90_sd": 1.801,
+   "leg2_goals_final_mean": 3.226,
+   "tie_goals180_mean": 5.872,
+   "away_side_goals180_mean": 2.538,
+   "level_after_180_pct": 17.436,
+   "away_goals_would_decide_pct": 9.231,
+   "extra_time_pct": 17.436,
+   "penalties_pct": 7.692,
+   "comeback_eligible_n": 145.0,
+   "comeback_pct": 24.138,
+   "leg2_host_advanced_pct": 60.0
+  }
+ },
+ "resolution_primary": {
+  "post": {
+   "aggregate (180 min)": 118,
+   "away goals (180 min)": 0,
+   "extra time": 11,
+   "penalty shoot-out": 10
+  },
+  "pre": {
+   "aggregate (180 min)": 171,
+   "away goals (180 min)": 17,
+   "extra time": 15,
+   "penalty shoot-out": 7
+  }
+ },
+ "resolution_extended": {
+  "post": {
+   "aggregate (180 min)": 161,
+   "away goals (180 min)": 0,
+   "extra time": 19,
+   "penalty shoot-out": 15
+  },
+  "pre": {
+   "aggregate (180 min)": 285,
+   "away goals (180 min)": 25,
+   "extra time": 19,
+   "penalty shoot-out": 9
+  }
+ },
+ "balance_deficit": {
+  "table": {
+   "post": {
+    "1 goal": 50,
+    "level": 38,
+    "2+ goals": 51
+   },
+   "pre": {
+    "1 goal": 70,
+    "level": 47,
+    "2+ goals": 93
+   }
+  },
+  "chi2": 2.1825,
+  "df": 2,
+  "p": 0.3358,
+  "cramers_v": 0.0791
+ },
+ "balance_margin_mw_p": 0.1716,
+ "balance_deficit_extended": {
+  "chi2": 1.0072,
+  "p": 0.6043,
+  "cramers_v": 0.0435
+ },
+ "unadjusted_primary": {
+  "H1_leg2_goals90": {
+   "pre_mean": 2.9667,
+   "pre_sd": 1.7179,
+   "pre_n": 210,
+   "post_mean": 3.0216,
+   "post_sd": 1.8316,
+   "post_n": 139,
+   "diff": 0.0549,
+   "diff_ci": [
+    -0.3297,
+    0.4396
+   ],
+   "welch_t": 0.281,
+   "welch_df": 282.299,
+   "p_welch": 0.7789,
+   "cohens_d": 0.0311,
+   "mw_U": 14639.5,
+   "p_mw": 0.9614,
+   "rank_biserial": 0.003,
+   "p_perm": 0.7796,
+   "tost_bound": 0.5,
+   "p_tost": 0.0117,
+   "p_primary_test": 0.7789,
+   "p_holm": 1.0
+  },
+  "H2_level_180": {
+   "pre_x": 39,
+   "pre_n": 210,
+   "pre_p": 0.1857,
+   "pre_ci": [
+    0.1389,
+    0.2438
+   ],
+   "post_x": 21,
+   "post_n": 139,
+   "post_p": 0.1511,
+   "post_ci": [
+    0.101,
+    0.2199
+   ],
+   "diff_pp": -3.4635,
+   "diff_ci_pp": [
+    -11.1326,
+    4.861
+   ],
+   "z": -0.8395,
+   "p_z": 0.4012,
+   "fisher_or": 0.7803,
+   "fisher_or_ci": [
+    0.414,
+    1.4401
+   ],
+   "p_fisher": 0.4694,
+   "cohens_h": -0.0927,
+   "p_primary_test": 0.4012,
+   "p_holm": 1.0
+  },
+  "H3_extra_time": {
+   "pre_x": 22,
+   "pre_n": 210,
+   "pre_p": 0.1048,
+   "pre_ci": [
+    0.0702,
+    0.1535
+   ],
+   "post_x": 21,
+   "post_n": 139,
+   "post_p": 0.1511,
+   "post_ci": [
+    0.101,
+    0.2199
+   ],
+   "diff_pp": 4.6317,
+   "diff_ci_pp": [
+    -2.3584,
+    12.336
+   ],
+   "z": 1.2888,
+   "p_z": 0.1975,
+   "fisher_or": 1.5208,
+   "fisher_or_ci": [
+    0.7582,
+    3.0371
+   ],
+   "p_fisher": 0.2441,
+   "cohens_h": 0.1392,
+   "p_primary_test": 0.1975,
+   "p_holm": 0.9875
+  },
+  "H4_penalties": {
+   "pre_x": 7,
+   "pre_n": 210,
+   "pre_p": 0.0333,
+   "pre_ci": [
+    0.0162,
+    0.0672
+   ],
+   "post_x": 10,
+   "post_n": 139,
+   "post_p": 0.0719,
+   "post_ci": [
+    0.0395,
+    0.1274
+   ],
+   "diff_pp": 3.8609,
+   "diff_ci_pp": [
+    -0.8255,
+    9.6607
+   ],
+   "z": 1.6403,
+   "p_z": 0.1009,
+   "fisher_or": 2.2481,
+   "fisher_or_ci": [
+    0.7489,
+    7.1289
+   ],
+   "p_fisher": 0.128,
+   "cohens_h": 0.1759,
+   "p_primary_test": 0.128,
+   "p_holm": 0.768
+  },
+  "H5_comeback": {
+   "pre_x": 37,
+   "pre_n": 163,
+   "pre_p": 0.227,
+   "pre_ci": [
+    0.1694,
+    0.2972
+   ],
+   "post_x": 25,
+   "post_n": 101,
+   "post_p": 0.2475,
+   "post_ci": [
+    0.1736,
+    0.3399
+   ],
+   "diff_pp": 2.0531,
+   "diff_ci_pp": [
+    -8.135,
+    12.9388
+   ],
+   "z": 0.3825,
+   "p_z": 0.7021,
+   "fisher_or": 1.1202,
+   "fisher_or_ci": [
+    0.5965,
+    2.0793
+   ],
+   "p_fisher": 0.7656,
+   "cohens_h": 0.0483,
+   "p_primary_test": 0.7021,
+   "p_holm": 1.0
+  },
+  "H6_leg2_host_advanced": {
+   "pre_x": 119,
+   "pre_n": 210,
+   "pre_p": 0.5667,
+   "pre_ci": [
+    0.499,
+    0.6319
+   ],
+   "post_x": 81,
+   "post_n": 139,
+   "post_p": 0.5827,
+   "post_ci": [
+    0.4996,
+    0.6614
+   ],
+   "diff_pp": 1.6067,
+   "diff_ci_pp": [
+    -8.9593,
+    11.9809
+   ],
+   "z": 0.2971,
+   "p_z": 0.7664,
+   "fisher_or": 1.068,
+   "fisher_or_ci": [
+    0.6767,
+    1.6885
+   ],
+   "p_fisher": 0.8252,
+   "cohens_h": 0.0325,
+   "p_primary_test": 0.7664,
+   "p_holm": 1.0
+  },
+  "S1_leg1_goals": {
+   "pre_mean": 2.6619,
+   "pre_sd": 1.5819,
+   "pre_n": 210,
+   "post_mean": 2.6763,
+   "post_sd": 1.7161,
+   "post_n": 139,
+   "diff": 0.0144,
+   "diff_ci": [
+    -0.3438,
+    0.3725
+   ],
+   "welch_t": 0.0789,
+   "welch_df": 278.6702,
+   "p_welch": 0.9372,
+   "cohens_d": 0.0088,
+   "mw_U": 13997.5,
+   "p_mw": 0.5087,
+   "rank_biserial": -0.0409,
+   "p_perm": 0.9461,
+   "tost_bound": 0.5,
+   "p_tost": 0.004
+  },
+  "S2_away_side_goals180": {
+   "pre_mean": 2.2905,
+   "pre_sd": 1.6677,
+   "pre_n": 210,
+   "post_mean": 2.3597,
+   "post_sd": 1.757,
+   "post_n": 139,
+   "diff": 0.0692,
+   "diff_ci": [
+    -0.3014,
+    0.4399
+   ],
+   "welch_t": 0.3677,
+   "welch_df": 284.7919,
+   "p_welch": 0.7134,
+   "cohens_d": 0.0406,
+   "mw_U": 14736.5,
+   "p_mw": 0.8766,
+   "rank_biserial": 0.0097,
+   "p_perm": 0.7139,
+   "tost_bound": 0.5,
+   "p_tost": 0.0114
+  },
+  "S3_leg2_goals_final": {
+   "pre_mean": 3.1143,
+   "pre_sd": 1.7489,
+   "pre_n": 210,
+   "post_mean": 3.1583,
+   "post_sd": 1.9309,
+   "post_n": 139,
+   "diff": 0.044,
+   "diff_ci": [
+    -0.3565,
+    0.4445
+   ],
+   "welch_t": 0.2162,
+   "welch_df": 275.0166,
+   "p_welch": 0.829,
+   "cohens_d": 0.0241,
+   "mw_U": 14490.5,
+   "p_mw": 0.9089,
+   "rank_biserial": -0.0072,
+   "p_perm": 0.8308,
+   "tost_bound": 0.5,
+   "p_tost": 0.0129
+  },
+  "S4_pens_given_et": {
+   "pre_x": 7,
+   "pre_n": 22,
+   "pre_p": 0.3182,
+   "pre_ci": [
+    0.1636,
+    0.5268
+   ],
+   "post_x": 10,
+   "post_n": 21,
+   "post_p": 0.4762,
+   "post_ci": [
+    0.2834,
+    0.6763
+   ],
+   "diff_pp": 15.8009,
+   "diff_ci_pp": [
+    -12.6034,
+    41.0871
+   ],
+   "z": 1.0593,
+   "p_z": 0.2895,
+   "fisher_or": 1.9481,
+   "fisher_or_ci": [
+    0.4786,
+    8.1035
+   ],
+   "p_fisher": 0.358,
+   "cohens_h": 0.3245
+  },
+  "S5_leg2_host_wins_given_et": {
+   "pre_x": 13,
+   "pre_n": 22,
+   "pre_p": 0.5909,
+   "pre_ci": [
+    0.3873,
+    0.7674
+   ],
+   "post_x": 14,
+   "post_n": 21,
+   "post_p": 0.6667,
+   "post_ci": [
+    0.4537,
+    0.8281
+   ],
+   "diff_pp": 7.5758,
+   "diff_ci_pp": [
+    -20.0836,
+    33.5531
+   ],
+   "z": 0.5137,
+   "p_z": 0.6074,
+   "fisher_or": 1.3846,
+   "fisher_or_ci": [
+    0.3378,
+    5.7846
+   ],
+   "p_fisher": 0.7546,
+   "cohens_h": 0.157
+  },
+  "S6_away_goals_would_decide": {
+   "pre_x": 17,
+   "pre_n": 210,
+   "pre_p": 0.081,
+   "pre_ci": [
+    0.0512,
+    0.1258
+   ],
+   "post_x": 12,
+   "post_n": 139,
+   "post_p": 0.0863,
+   "post_ci": [
+    0.0501,
+    0.1448
+   ],
+   "diff_pp": 0.5379,
+   "diff_ci_pp": [
+    -5.2296,
+    7.1036
+   ],
+   "z": 0.1782,
+   "p_z": 0.8586,
+   "fisher_or": 1.0727,
+   "fisher_or_ci": [
+    0.4509,
+    2.4754
+   ],
+   "p_fisher": 0.8459,
+   "cohens_h": 0.0194
+  },
+  "S7_leg1_visitor_goals": {
+   "pre_mean": 1.1429,
+   "pre_sd": 1.1935,
+   "pre_n": 210,
+   "post_mean": 1.2302,
+   "post_sd": 1.326,
+   "post_n": 139,
+   "diff": 0.0874,
+   "diff_ci": [
+    -0.1871,
+    0.3618
+   ],
+   "welch_t": 0.6267,
+   "welch_df": 273.7194,
+   "p_welch": 0.5314,
+   "cohens_d": 0.07,
+   "mw_U": 14964.0,
+   "p_mw": 0.676,
+   "rank_biserial": 0.0253,
+   "p_perm": 0.553,
+   "tost_bound": 0.5,
+   "p_tost": 0.0017
+  },
+  "S8_leg2_visitor_goals90": {
+   "pre_mean": 1.1476,
+   "pre_sd": 1.1949,
+   "pre_n": 210,
+   "post_mean": 1.1295,
+   "post_sd": 1.0274,
+   "post_n": 139,
+   "diff": -0.0181,
+   "diff_ci": [
+    -0.2541,
+    0.2179
+   ],
+   "welch_t": -0.1511,
+   "welch_df": 324.1604,
+   "p_welch": 0.88,
+   "cohens_d": -0.016,
+   "mw_U": 14931.0,
+   "p_mw": 0.7035,
+   "rank_biserial": 0.023,
+   "p_perm": 0.8855,
+   "tost_bound": 0.5,
+   "p_tost": 0.0
+  },
+  "S10_extra_time_goals_given_et": {
+   "pre_mean": 1.4091,
+   "pre_sd": 1.2212,
+   "pre_n": 22,
+   "post_mean": 0.9048,
+   "post_sd": 1.1792,
+   "post_n": 21,
+   "diff": -0.5043,
+   "diff_ci": [
+    -1.2436,
+    0.235
+   ],
+   "welch_t": -1.3777,
+   "welch_df": 40.9935,
+   "p_welch": 0.1758,
+   "cohens_d": -0.42,
+   "mw_U": 169.0,
+   "p_mw": 0.1181,
+   "rank_biserial": -0.2684,
+   "p_perm": 0.217,
+   "tost_bound": 0.5,
+   "p_tost": 0.5047
+  },
+  "S9_comeback_deficit_1": {
+   "pre_x": 21,
+   "pre_n": 70,
+   "pre_p": 0.3,
+   "pre_ci": [
+    0.2054,
+    0.4154
+   ],
+   "post_x": 23,
+   "post_n": 50,
+   "post_p": 0.46,
+   "post_ci": [
+    0.3297,
+    0.596
+   ],
+   "diff_pp": 16.0,
+   "diff_ci_pp": [
+    -1.4087,
+    32.5694
+   ],
+   "z": 1.7931,
+   "p_z": 0.073,
+   "fisher_or": 1.9877,
+   "fisher_or_ci": [
+    0.872,
+    4.5291
+   ],
+   "p_fisher": 0.0857,
+   "cohens_h": 0.3314
+  },
+  "S9_comeback_deficit_2plus": {
+   "pre_x": 16,
+   "pre_n": 93,
+   "pre_p": 0.172,
+   "pre_ci": [
+    0.1088,
+    0.2613
+   ],
+   "post_x": 2,
+   "post_n": 51,
+   "post_p": 0.0392,
+   "post_ci": [
+    0.0108,
+    0.1322
+   ],
+   "diff_pp": -13.2827,
+   "diff_ci_pp": [
+    -22.6529,
+    -2.0385
+   ],
+   "z": -2.305,
+   "p_z": 0.0212,
+   "fisher_or": 0.1964,
+   "fisher_or_ci": [
+    0.0212,
+    0.9016
+   ],
+   "p_fisher": 0.0323,
+   "cohens_h": -0.4567
+  }
+ },
+ "unadjusted_extended": {
+  "H1_leg2_goals90": {
+   "pre_mean": 2.8462,
+   "pre_sd": 1.6737,
+   "pre_n": 338,
+   "post_mean": 3.0513,
+   "post_sd": 1.8013,
+   "post_n": 195,
+   "diff": 0.2051,
+   "diff_ci": [
+    -0.1053,
+    0.5156
+   ],
+   "welch_t": 1.2992,
+   "welch_df": 380.966,
+   "p_welch": 0.1947,
+   "cohens_d": 0.1192,
+   "mw_U": 34999.5,
+   "p_mw": 0.2251,
+   "rank_biserial": 0.062,
+   "p_perm": 0.188,
+   "tost_bound": 0.5,
+   "p_tost": 0.0313
+  },
+  "H2_level_180": {
+   "pre_x": 53,
+   "pre_n": 338,
+   "pre_p": 0.1568,
+   "pre_ci": [
+    0.1219,
+    0.1994
+   ],
+   "post_x": 34,
+   "post_n": 195,
+   "post_p": 0.1744,
+   "post_ci": [
+    0.1275,
+    0.2338
+   ],
+   "diff_pp": 1.7554,
+   "diff_ci_pp": [
+    -4.5742,
+    8.644
+   ],
+   "z": 0.5282,
+   "p_z": 0.5974,
+   "fisher_or": 1.1356,
+   "fisher_or_ci": [
+    0.6848,
+    1.8637
+   ],
+   "p_fisher": 0.6273,
+   "cohens_h": 0.0472
+  },
+  "H3_extra_time": {
+   "pre_x": 28,
+   "pre_n": 338,
+   "pre_p": 0.0828,
+   "pre_ci": [
+    0.0579,
+    0.1171
+   ],
+   "post_x": 34,
+   "post_n": 195,
+   "post_p": 0.1744,
+   "post_ci": [
+    0.1275,
+    0.2338
+   ],
+   "diff_pp": 9.1519,
+   "diff_ci_pp": [
+    3.3491,
+    15.593
+   ],
+   "z": 3.1743,
+   "p_z": 0.0015,
+   "fisher_or": 2.3381,
+   "fisher_or_ci": [
+    1.3218,
+    4.1513
+   ],
+   "p_fisher": 0.002,
+   "cohens_h": 0.2776
+  },
+  "H4_penalties": {
+   "pre_x": 9,
+   "pre_n": 338,
+   "pre_p": 0.0266,
+   "pre_ci": [
+    0.0141,
+    0.0498
+   ],
+   "post_x": 15,
+   "post_n": 195,
+   "post_p": 0.0769,
+   "post_ci": [
+    0.0472,
+    0.123
+   ],
+   "diff_pp": 5.0296,
+   "diff_ci_pp": [
+    1.2568,
+    9.8077
+   ],
+   "z": 2.6972,
+   "p_z": 0.007,
+   "fisher_or": 3.0463,
+   "fisher_or_ci": [
+    1.2179,
+    8.0447
+   ],
+   "p_fisher": 0.0091,
+   "cohens_h": 0.2342
+  },
+  "H5_comeback": {
+   "pre_x": 54,
+   "pre_n": 253,
+   "pre_p": 0.2134,
+   "pre_ci": [
+    0.1674,
+    0.268
+   ],
+   "post_x": 35,
+   "post_n": 145,
+   "post_p": 0.2414,
+   "post_ci": [
+    0.179,
+    0.3171
+   ],
+   "diff_pp": 2.7941,
+   "diff_ci_pp": [
+    -5.4956,
+    11.6562
+   ],
+   "z": 0.6438,
+   "p_z": 0.5197,
+   "fisher_or": 1.1726,
+   "fisher_or_ci": [
+    0.6977,
+    1.953
+   ],
+   "p_fisher": 0.5338,
+   "cohens_h": 0.0667
+  },
+  "H6_leg2_host_advanced": {
+   "pre_x": 195,
+   "pre_n": 338,
+   "pre_p": 0.5769,
+   "pre_ci": [
+    0.5237,
+    0.6284
+   ],
+   "post_x": 117,
+   "post_n": 195,
+   "post_p": 0.6,
+   "post_ci": [
+    0.5299,
+    0.6662
+   ],
+   "diff_pp": 2.3077,
+   "diff_ci_pp": [
+    -6.3878,
+    10.8023
+   ],
+   "z": 0.5209,
+   "p_z": 0.6024,
+   "fisher_or": 1.1,
+   "fisher_or_ci": [
+    0.7569,
+    1.6018
+   ],
+   "p_fisher": 0.6484,
+   "cohens_h": 0.0469
+  },
+  "S4_pens_given_et": {
+   "pre_x": 9,
+   "pre_n": 28,
+   "pre_p": 0.3214,
+   "pre_ci": [
+    0.1793,
+    0.5066
+   ],
+   "post_x": 15,
+   "post_n": 34,
+   "post_p": 0.4412,
+   "post_ci": [
+    0.2888,
+    0.6055
+   ],
+   "diff_pp": 11.9748,
+   "diff_ci_pp": [
+    -12.0045,
+    33.6959
+   ],
+   "z": 0.9634,
+   "p_z": 0.3354,
+   "fisher_or": 1.6667,
+   "fisher_or_ci": [
+    0.5236,
+    5.4377
+   ],
+   "p_fisher": 0.4341,
+   "cohens_h": 0.2473
+  },
+  "S5_leg2_host_wins_given_et": {
+   "pre_x": 16,
+   "pre_n": 28,
+   "pre_p": 0.5714,
+   "pre_ci": [
+    0.3907,
+    0.7349
+   ],
+   "post_x": 22,
+   "post_n": 34,
+   "post_p": 0.6471,
+   "post_ci": [
+    0.4791,
+    0.7851
+   ],
+   "diff_pp": 7.563,
+   "diff_ci_pp": [
+    -15.873,
+    30.3053
+   ],
+   "z": 0.6084,
+   "p_z": 0.5429,
+   "fisher_or": 1.375,
+   "fisher_or_ci": [
+    0.4352,
+    4.3381
+   ],
+   "p_fisher": 0.6061,
+   "cohens_h": 0.1552
+  }
+ },
+ "models_primary": {
+  "H1_poisson": {
+   "era": {
+    "ratio": 1.0171,
+    "ci": [
+     0.8964,
+     1.154
+    ],
+    "p": 0.7926,
+    "coef": 0.0169
+   },
+   "dispersion": 1.0461,
+   "nb_alpha": 0.0091,
+   "nb_alpha_p": 0.7313,
+   "aic_poisson": 1370.0943,
+   "aic_nb": 1371.9715
+  },
+  "H2_level_180": {
+   "era": {
+    "ratio": 0.7425,
+    "ci": [
+     0.415,
+     1.3283
+    ],
+    "p": 0.3157,
+    "coef": -0.2978
+   },
+   "n": 349
+  },
+  "H3_extra_time": {
+   "era": {
+    "ratio": 1.4343,
+    "ci": [
+     0.7449,
+     2.7618
+    ],
+    "p": 0.2806,
+    "coef": 0.3607
+   },
+   "n": 349
+  },
+  "H4_penalties_firth": {
+   "era": {
+    "ratio": 2.1649,
+    "ci": [
+     0.8329,
+     5.8999
+    ],
+    "p": 0.1127
+   }
+  },
+  "H5_comeback": {
+   "era": {
+    "ratio": 1.0723,
+    "ci": [
+     0.5724,
+     2.0087
+    ],
+    "p": 0.8275,
+    "coef": 0.0698
+   },
+   "margin": {
+    "ratio": 0.3738,
+    "ci": [
+     0.2347,
+     0.5952
+    ],
+    "p": 0.0,
+    "coef": -0.9841
+   },
+   "trailer_home": {
+    "ratio": 6.8459,
+    "ci": [
+     3.028,
+     15.4778
+    ],
+    "p": 0.0,
+    "coef": 1.9236
+   },
+   "n": 264
+  },
+  "H5b_comeback_interaction": {
+   "interaction": {
+    "ratio": 0.0828,
+    "ci": [
+     0.0147,
+     0.4665
+    ],
+    "p": 0.0047,
+    "coef": -2.491
+   },
+   "era": {
+    "ratio": 2.2693,
+    "ci": [
+     0.9774,
+     5.2687
+    ],
+    "p": 0.0565,
+    "coef": 0.8195
+   },
+   "deficit2p": {
+    "ratio": 0.4586,
+    "ci": [
+     0.2093,
+     1.005
+    ],
+    "p": 0.0515,
+    "coef": -0.7796
+   }
+  },
+  "H6_leg2_host_advanced": {
+   "era": {
+    "ratio": 0.9168,
+    "ci": [
+     0.5504,
+     1.5272
+    ],
+    "p": 0.7387,
+    "coef": -0.0868
+   },
+   "n": 349
+  },
+  "H7_deficit_interaction": {
+   "primary_logit": {
+    "ratio": 0.0828,
+    "ci": [
+     0.0147,
+     0.4665
+    ],
+    "p": 0.0047,
+    "coef": -2.491
+   },
+   "primary_firth": {
+    "ratio": 0.1048,
+    "ci": [
+     0.0168,
+     0.4733
+    ],
+    "p": 0.0026
+   },
+   "extended_logit": {
+    "ratio": 0.217,
+    "ci": [
+     0.0584,
+     0.8059
+    ],
+    "p": 0.0225,
+    "coef": -1.5279
+   },
+   "primary_excl_2019_20": {
+    "ratio": 0.0815,
+    "ci": [
+     0.0143,
+     0.4639
+    ],
+    "p": 0.0047,
+    "coef": -2.5068
+   },
+   "primary_season_cluster": {
+    "ratio": 0.0828,
+    "ci": [
+     0.0132,
+     0.5203
+    ],
+    "p": 0.0079,
+    "coef": -2.491
+   },
+   "primary_excl_2024_format_firth": {
+    "ratio": 0.0498,
+    "ci": [
+     0.0004,
+     0.512
+    ],
+    "p": 0.0076
+   },
+   "did_pp": -29.2827,
+   "did_perm_p": 0.008
+  }
+ },
+ "holm": {
+  "H1_leg2_goals90": {
+   "p": 0.7789,
+   "p_holm": 1.0
+  },
+  "H2_level_180": {
+   "p": 0.4012,
+   "p_holm": 1.0
+  },
+  "H3_extra_time": {
+   "p": 0.1975,
+   "p_holm": 0.9875
+  },
+  "H4_penalties": {
+   "p": 0.128,
+   "p_holm": 0.768
+  },
+  "H5_comeback": {
+   "p": 0.7021,
+   "p_holm": 1.0
+  },
+  "H6_leg2_host_advanced": {
+   "p": 0.7664,
+   "p_holm": 1.0
+  },
+  "H7_deficit_interaction": {
+   "p": 0.0047,
+   "p_holm": 0.0329
+  }
+ },
+ "counterfactual_winners": {
+  "primary": {
+   "n_post": 139,
+   "n_changed": 6,
+   "share_changed": 0.0432,
+   "changed": [
+    {
+     "tie_id": "UEL-2021-22-QF-04",
+     "season": "2021/22",
+     "competition": "UEL",
+     "round": "Quarter-finals",
+     "leg2_home_team": "Rangers",
+     "leg1_home_team": "Braga",
+     "leg1_home_goals": 1,
+     "leg1_away_goals": 0,
+     "leg2_home_goals_90": 2,
+     "leg2_away_goals_90": 1,
+     "resolution": "extra time",
+     "winner": "Rangers",
+     "winner_old_rule": "Braga"
+    },
+    {
+     "tie_id": "UEL-2022-23-R16-05",
+     "season": "2022/23",
+     "competition": "UEL",
+     "round": "Round of 16",
+     "leg2_home_team": "Arsenal",
+     "leg1_home_team": "Sporting CP",
+     "leg1_home_goals": 2,
+     "leg1_away_goals": 2,
+     "leg2_home_goals_90": 1,
+     "leg2_away_goals_90": 1,
+     "resolution": "penalty shoot-out",
+     "winner": "Sporting CP",
+     "winner_old_rule": "Arsenal"
+    },
+    {
+     "tie_id": "UEL-2022-23-QF-04",
+     "season": "2022/23",
+     "competition": "UEL",
+     "round": "Quarter-finals",
+     "leg2_home_team": "Roma",
+     "leg1_home_team": "Feyenoord",
+     "leg1_home_goals": 1,
+     "leg1_away_goals": 0,
+     "leg2_home_goals_90": 2,
+     "leg2_away_goals_90": 1,
+     "resolution": "extra time",
+     "winner": "Roma",
+     "winner_old_rule": "Feyenoord"
+    },
+    {
+     "tie_id": "UCL-2023-24-R16-04",
+     "season": "2023/24",
+     "competition": "UCL",
+     "round": "Round of 16",
+     "leg2_home_team": "Atl\u00e9tico Madrid",
+     "leg1_home_team": "Inter Milan",
+     "leg1_home_goals": 1,
+     "leg1_away_goals": 0,
+     "leg2_home_goals_90": 2,
+     "leg2_away_goals_90": 1,
+     "resolution": "penalty shoot-out",
+     "winner": "Atl\u00e9tico Madrid",
+     "winner_old_rule": "Inter Milan"
+    },
+    {
+     "tie_id": "UCL-2023-24-QF-03",
+     "season": "2023/24",
+     "competition": "UCL",
+     "round": "Quarter-finals",
+     "leg2_home_team": "Manchester City",
+     "leg1_home_team": "Real Madrid",
+     "leg1_home_goals": 3,
+     "leg1_away_goals": 3,
+     "leg2_home_goals_90": 1,
+     "leg2_away_goals_90": 1,
+     "resolution": "penalty shoot-out",
+     "winner": "Real Madrid",
+     "winner_old_rule": "Manchester City"
+    },
+    {
+     "tie_id": "UCL-2024-25-R16-03",
+     "season": "2024/25",
+     "competition": "UCL",
+     "round": "Round of 16",
+     "leg2_home_team": "Atl\u00e9tico Madrid",
+     "leg1_home_team": "Real Madrid",
+     "leg1_home_goals": 2,
+     "leg1_away_goals": 1,
+     "leg2_home_goals_90": 1,
+     "leg2_away_goals_90": 0,
+     "resolution": "penalty shoot-out",
+     "winner": "Real Madrid",
+     "winner_old_rule": "Atl\u00e9tico Madrid"
+    }
+   ],
+   "comeback_obs": {
+    "all": 0.2475,
+    "1": 0.46,
+    "2plus": 0.0392
+   },
+   "comeback_old_rule": {
+    "all": 0.2277,
+    "1": 0.42,
+    "2plus": 0.0392
+   },
+   "leg2_host_adv_obs": 0.5827,
+   "leg2_host_adv_old_rule": 0.5827
+  },
+  "extended": {
+   "n_post": 195,
+   "n_changed": 11,
+   "share_changed": 0.0564,
+   "changed": [
+    {
+     "tie_id": "UEL-2021-22-QF-04",
+     "season": "2021/22",
+     "competition": "UEL",
+     "round": "Quarter-finals",
+     "leg2_home_team": "Rangers",
+     "leg1_home_team": "Braga",
+     "leg1_home_goals": 1,
+     "leg1_away_goals": 0,
+     "leg2_home_goals_90": 2,
+     "leg2_away_goals_90": 1,
+     "resolution": "extra time",
+     "winner": "Rangers",
+     "winner_old_rule": "Braga"
+    },
+    {
+     "tie_id": "UEL-2022-23-KPO-04",
+     "season": "2022/23",
+     "competition": "UEL",
+     "round": "Knockout play-offs",
+     "leg2_home_team": "Rennes",
+     "leg1_home_team": "Shakhtar Donetsk",
+     "leg1_home_goals": 2,
+     "leg1_away_goals": 1,
+     "leg2_home_goals_90": 1,
+     "leg2_away_goals_90": 0,
+     "resolution": "penalty shoot-out",
+     "winner": "Shakhtar Donetsk",
+     "winner_old_rule": "Rennes"
+    },
+    {
+     "tie_id": "UEL-2022-23-R16-05",
+     "season": "2022/23",
+     "competition": "UEL",
+     "round": "Round of 16",
+     "leg2_home_team": "Arsenal",
+     "leg1_home_team": "Sporting CP",
+     "leg1_home_goals": 2,
+     "leg1_away_goals": 2,
+     "leg2_home_goals_90": 1,
+     "leg2_away_goals_90": 1,
+     "resolution": "penalty shoot-out",
+     "winner": "Sporting CP",
+     "winner_old_rule": "Arsenal"
+    },
+    {
+     "tie_id": "UEL-2022-23-QF-04",
+     "season": "2022/23",
+     "competition": "UEL",
+     "round": "Quarter-finals",
+     "leg2_home_team": "Roma",
+     "leg1_home_team": "Feyenoord",
+     "leg1_home_goals": 1,
+     "leg1_away_goals": 0,
+     "leg2_home_goals_90": 2,
+     "leg2_away_goals_90": 1,
+     "resolution": "extra time",
+     "winner": "Roma",
+     "winner_old_rule": "Feyenoord"
+    },
+    {
+     "tie_id": "UCL-2023-24-R16-04",
+     "season": "2023/24",
+     "competition": "UCL",
+     "round": "Round of 16",
+     "leg2_home_team": "Atl\u00e9tico Madrid",
+     "leg1_home_team": "Inter Milan",
+     "leg1_home_goals": 1,
+     "leg1_away_goals": 0,
+     "leg2_home_goals_90": 2,
+     "leg2_away_goals_90": 1,
+     "resolution": "penalty shoot-out",
+     "winner": "Atl\u00e9tico Madrid",
+     "winner_old_rule": "Inter Milan"
+    },
+    {
+     "tie_id": "UCL-2023-24-QF-03",
+     "season": "2023/24",
+     "competition": "UCL",
+     "round": "Quarter-finals",
+     "leg2_home_team": "Manchester City",
+     "leg1_home_team": "Real Madrid",
+     "leg1_home_goals": 3,
+     "leg1_away_goals": 3,
+     "leg2_home_goals_90": 1,
+     "leg2_away_goals_90": 1,
+     "resolution": "penalty shoot-out",
+     "winner": "Real Madrid",
+     "winner_old_rule": "Manchester City"
+    },
+    {
+     "tie_id": "UEL-2023-24-KPO-03",
+     "season": "2023/24",
+     "competition": "UEL",
+     "round": "Knockout play-offs",
+     "leg2_home_team": "SC Freiburg",
+     "leg1_home_team": "Lens",
+     "leg1_home_goals": 0,
+     "leg1_away_goals": 0,
+     "leg2_home_goals_90": 2,
+     "leg2_away_goals_90": 2,
+     "resolution": "extra time",
+     "winner": "SC Freiburg",
+     "winner_old_rule": "Lens"
+    },
+    {
+     "tie_id": "UCL-2024-25-R16-03",
+     "season": "2024/25",
+     "competition": "UCL",
+     "round": "Round of 16",
+     "leg2_home_team": "Atl\u00e9tico Madrid",
+     "leg1_home_team": "Real Madrid",
+     "leg1_home_goals": 2,
+     "leg1_away_goals": 1,
+     "leg2_home_goals_90": 1,
+     "leg2_away_goals_90": 0,
+     "resolution": "penalty shoot-out",
+     "winner": "Real Madrid",
+     "winner_old_rule": "Atl\u00e9tico Madrid"
+    },
+    {
+     "tie_id": "UEL-2024-25-KPO-02",
+     "season": "2024/25",
+     "competition": "UEL",
+     "round": "Knockout play-offs",
+     "leg2_home_team": "Bod\u00f8/Glimt",
+     "leg1_home_team": "Twente",
+     "leg1_home_goals": 2,
+     "leg1_away_goals": 1,
+     "leg2_home_goals_90": 3,
+     "leg2_away_goals_90": 2,
+     "resolution": "extra time",
+     "winner": "Bod\u00f8/Glimt",
+     "winner_old_rule": "Twente"
+    },
+    {
+     "tie_id": "UCL-2025-26-KPO-02",
+     "season": "2025/26",
+     "competition": "UCL",
+     "round": "Knockout play-offs",
+     "leg2_home_team": "Juventus",
+     "leg1_home_team": "Galatasaray",
+     "leg1_home_goals": 5,
+     "leg1_away_goals": 2,
+     "leg2_home_goals_90": 3,
+     "leg2_away_goals_90": 0,
+     "resolution": "extra time",
+     "winner": "Galatasaray",
+     "winner_old_rule": "Juventus"
+    },
+    {
+     "tie_id": "UEL-2025-26-KPO-02",
+     "season": "2025/26",
+     "competition": "UEL",
+     "round": "Knockout play-offs",
+     "leg2_home_team": "Viktoria Plze\u0148",
+     "leg1_home_team": "Panathinaikos",
+     "leg1_home_goals": 2,
+     "leg1_away_goals": 2,
+     "leg2_home_goals_90": 1,
+     "leg2_away_goals_90": 1,
+     "resolution": "penalty shoot-out",
+     "winner": "Panathinaikos",
+     "winner_old_rule": "Viktoria Plze\u0148"
+    }
+   ],
+   "comeback_obs": {
+    "all": 0.2414,
+    "1": 0.4189,
+    "2plus": 0.0563
+   },
+   "comeback_old_rule": {
+    "all": 0.2345,
+    "1": 0.3919,
+    "2plus": 0.0704
+   },
+   "leg2_host_adv_obs": 0.6,
+   "leg2_host_adv_old_rule": 0.6051
+  }
+ },
+ "pre_comebacks_via_away_goals": {
+  "1": {
+   "n": 21,
+   "via_away_goals": 3
+  },
+  "2plus": {
+   "n": 16,
+   "via_away_goals": 5
+  }
+ },
+ "decomposition_primary": {
+  "et_pre_obs": 0.1048,
+  "et_post_obs": 0.1511,
+  "et_post_under_old_rule": 0.0647,
+  "et_pre_under_new_rule": 0.1857,
+  "pen_pre_obs": 0.0333,
+  "pen_post_obs": 0.0719,
+  "pen_post_under_old_rule": 0.0144,
+  "et_total": 0.0463,
+  "et_mechanical": 0.0836,
+  "et_behavioural": -0.0373,
+  "et_mech_on_post": 0.0863,
+  "et_mech_on_pre": 0.081,
+  "pen_total": 0.0386,
+  "pen_mechanical_on_post": 0.0576,
+  "pen_behavioural_on_post": -0.0189,
+  "et_total_ci": [
+   -0.0254,
+   0.1185
+  ],
+  "et_total_p_boot": 0.1996,
+  "et_mechanical_ci": [
+   0.055,
+   0.1147
+  ],
+  "et_mechanical_p_boot": 0.0,
+  "et_behavioural_ci": [
+   -0.0997,
+   0.0262
+  ],
+  "et_behavioural_p_boot": 0.2418,
+  "pen_total_ci": [
+   -0.007,
+   0.0912
+  ],
+  "pen_total_p_boot": 0.1004,
+  "pen_mechanical_on_post_ci": [
+   0.0216,
+   0.1007
+  ],
+  "pen_mechanical_on_post_p_boot": 0.0004,
+  "pen_behavioural_on_post_ci": [
+   -0.0499,
+   0.0122
+  ],
+  "pen_behavioural_on_post_p_boot": 0.2544
+ },
+ "decomposition_extended": {
+  "et_pre_obs": 0.0828,
+  "et_post_obs": 0.1744,
+  "et_post_under_old_rule": 0.0821,
+  "et_pre_under_new_rule": 0.1568,
+  "pen_pre_obs": 0.0266,
+  "pen_post_obs": 0.0769,
+  "pen_post_under_old_rule": 0.0256,
+  "et_total": 0.0915,
+  "et_mechanical": 0.0831,
+  "et_behavioural": 0.0084,
+  "et_mech_on_post": 0.0923,
+  "et_mech_on_pre": 0.074,
+  "pen_total": 0.0503,
+  "pen_mechanical_on_post": 0.0513,
+  "pen_behavioural_on_post": -0.001,
+  "et_total_ci": [
+   0.0316,
+   0.1517
+  ],
+  "et_total_p_boot": 0.0005,
+  "et_mechanical_ci": [
+   0.059,
+   0.1086
+  ],
+  "et_mechanical_p_boot": 0.0,
+  "et_behavioural_ci": [
+   -0.0434,
+   0.0595
+  ],
+  "et_behavioural_p_boot": 0.7605,
+  "pen_total_ci": [
+   0.0107,
+   0.0937
+  ],
+  "pen_total_p_boot": 0.011,
+  "pen_mechanical_on_post_ci": [
+   0.0256,
+   0.0872
+  ],
+  "pen_mechanical_on_post_p_boot": 0.0,
+  "pen_behavioural_on_post_ci": [
+   -0.0282,
+   0.027
+  ],
+  "pen_behavioural_on_post_p_boot": 0.916
+ },
+ "comeback_by_margin": [
+  {
+   "rule_era": "post",
+   "m": 1,
+   "sum": 23.0,
+   "count": 50,
+   "rate": 0.46,
+   "lo": 0.3297,
+   "hi": 0.596
+  },
+  {
+   "rule_era": "post",
+   "m": 2,
+   "sum": 1.0,
+   "count": 30,
+   "rate": 0.0333,
+   "lo": 0.0059,
+   "hi": 0.1667
+  },
+  {
+   "rule_era": "post",
+   "m": 3,
+   "sum": 1.0,
+   "count": 21,
+   "rate": 0.0476,
+   "lo": 0.0085,
+   "hi": 0.2267
+  },
+  {
+   "rule_era": "pre",
+   "m": 1,
+   "sum": 21.0,
+   "count": 70,
+   "rate": 0.3,
+   "lo": 0.2054,
+   "hi": 0.4154
+  },
+  {
+   "rule_era": "pre",
+   "m": 2,
+   "sum": 12.0,
+   "count": 55,
+   "rate": 0.2182,
+   "lo": 0.1295,
+   "hi": 0.3437
+  },
+  {
+   "rule_era": "pre",
+   "m": 3,
+   "sum": 4.0,
+   "count": 38,
+   "rate": 0.1053,
+   "lo": 0.0417,
+   "hi": 0.2413
+  }
+ ],
+ "robustness_grid": [
+  {
+   "spec": "Primary sample (R16-SF)",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 2.9667,
+   "post": 3.0216,
+   "ratio": 1.0171,
+   "ci_low": 0.8964,
+   "ci_high": 1.154,
+   "p": 0.7926
+  },
+  {
+   "spec": "Primary sample (R16-SF)",
+   "outcome": "Level after 180 min",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.1857,
+   "post": 0.1511,
+   "ratio": 0.7425,
+   "ci_low": 0.415,
+   "ci_high": 1.3283,
+   "p": 0.3157
+  },
+  {
+   "spec": "Primary sample (R16-SF)",
+   "outcome": "Extra time",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.1048,
+   "post": 0.1511,
+   "ratio": 1.4343,
+   "ci_low": 0.7449,
+   "ci_high": 2.7618,
+   "p": 0.2806
+  },
+  {
+   "spec": "Primary sample (R16-SF)",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.0333,
+   "post": 0.0719,
+   "ratio": 2.1649,
+   "ci_low": 0.8329,
+   "ci_high": 5.8999,
+   "p": 0.1127
+  },
+  {
+   "spec": "Primary sample (R16-SF)",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.5667,
+   "post": 0.5827,
+   "ratio": 1.0231,
+   "ci_low": 0.658,
+   "ci_high": 1.5908,
+   "p": 0.9192
+  },
+  {
+   "spec": "Extended sample (all 533 ties)",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 338,
+   "n_post": 195,
+   "pre": 2.8462,
+   "post": 3.0513,
+   "ratio": 1.0555,
+   "ci_low": 0.9516,
+   "ci_high": 1.1708,
+   "p": 0.3071
+  },
+  {
+   "spec": "Extended sample (all 533 ties)",
+   "outcome": "Level after 180 min",
+   "n_pre": 338,
+   "n_post": 195,
+   "pre": 0.1568,
+   "post": 0.1744,
+   "ratio": 1.1093,
+   "ci_low": 0.6799,
+   "ci_high": 1.8099,
+   "p": 0.6779
+  },
+  {
+   "spec": "Extended sample (all 533 ties)",
+   "outcome": "Extra time",
+   "n_pre": 338,
+   "n_post": 195,
+   "pre": 0.0828,
+   "post": 0.1744,
+   "ratio": 2.3761,
+   "ci_low": 1.3548,
+   "ci_high": 4.1673,
+   "p": 0.0025
+  },
+  {
+   "spec": "Extended sample (all 533 ties)",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 338,
+   "n_post": 195,
+   "pre": 0.0266,
+   "post": 0.0769,
+   "ratio": 3.1378,
+   "ci_low": 1.3829,
+   "ci_high": 7.4892,
+   "p": 0.0062
+  },
+  {
+   "spec": "Extended sample (all 533 ties)",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 338,
+   "n_post": 195,
+   "pre": 0.5769,
+   "post": 0.6,
+   "ratio": 1.0573,
+   "ci_low": 0.733,
+   "ci_high": 1.5252,
+   "p": 0.7656
+  },
+  {
+   "spec": "Draft sample (477 ties)",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 338,
+   "n_post": 139,
+   "pre": 2.8462,
+   "post": 3.0216,
+   "ratio": 1.0157,
+   "ci_low": 0.8947,
+   "ci_high": 1.153,
+   "p": 0.81
+  },
+  {
+   "spec": "Draft sample (477 ties)",
+   "outcome": "Level after 180 min",
+   "n_pre": 338,
+   "n_post": 139,
+   "pre": 0.1568,
+   "post": 0.1511,
+   "ratio": 0.7496,
+   "ci_low": 0.4197,
+   "ci_high": 1.3389,
+   "p": 0.3302
+  },
+  {
+   "spec": "Draft sample (477 ties)",
+   "outcome": "Extra time",
+   "n_pre": 338,
+   "n_post": 139,
+   "pre": 0.0828,
+   "post": 0.1511,
+   "ratio": 1.4552,
+   "ci_low": 0.7573,
+   "ci_high": 2.7966,
+   "p": 0.2603
+  },
+  {
+   "spec": "Draft sample (477 ties)",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 338,
+   "n_post": 139,
+   "pre": 0.0266,
+   "post": 0.0719,
+   "ratio": 2.9078,
+   "ci_low": 1.1539,
+   "ci_high": 7.4228,
+   "p": 0.0241
+  },
+  {
+   "spec": "Draft sample (477 ties)",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 338,
+   "n_post": 139,
+   "pre": 0.5769,
+   "post": 0.5827,
+   "ratio": 1.0293,
+   "ci_low": 0.6637,
+   "ci_high": 1.5963,
+   "p": 0.8973
+  },
+  {
+   "spec": "Primary, excluding 2019/20",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 196,
+   "n_post": 139,
+   "pre": 2.9745,
+   "post": 3.0216,
+   "ratio": 1.0157,
+   "ci_low": 0.8936,
+   "ci_high": 1.1545,
+   "p": 0.811
+  },
+  {
+   "spec": "Primary, excluding 2019/20",
+   "outcome": "Level after 180 min",
+   "n_pre": 196,
+   "n_post": 139,
+   "pre": 0.1888,
+   "post": 0.1511,
+   "ratio": 0.7304,
+   "ci_low": 0.4063,
+   "ci_high": 1.3132,
+   "p": 0.2939
+  },
+  {
+   "spec": "Primary, excluding 2019/20",
+   "outcome": "Extra time",
+   "n_pre": 196,
+   "n_post": 139,
+   "pre": 0.1071,
+   "post": 0.1511,
+   "ratio": 1.4029,
+   "ci_low": 0.7235,
+   "ci_high": 2.7203,
+   "p": 0.3163
+  },
+  {
+   "spec": "Primary, excluding 2019/20",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 196,
+   "n_post": 139,
+   "pre": 0.0357,
+   "post": 0.0719,
+   "ratio": 2.0234,
+   "ci_low": 0.7783,
+   "ci_high": 5.5155,
+   "p": 0.1478
+  },
+  {
+   "spec": "Primary, excluding 2019/20",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 196,
+   "n_post": 139,
+   "pre": 0.551,
+   "post": 0.5827,
+   "ratio": 1.0801,
+   "ci_low": 0.6898,
+   "ci_high": 1.6912,
+   "p": 0.7364
+  },
+  {
+   "spec": "Primary, excluding 2024+ format",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 210,
+   "n_post": 83,
+   "pre": 2.9667,
+   "post": 2.747,
+   "ratio": 0.9234,
+   "ci_low": 0.7829,
+   "ci_high": 1.0892,
+   "p": 0.3442
+  },
+  {
+   "spec": "Primary, excluding 2024+ format",
+   "outcome": "Level after 180 min",
+   "n_pre": 210,
+   "n_post": 83,
+   "pre": 0.1857,
+   "post": 0.1446,
+   "ratio": 0.6901,
+   "ci_low": 0.3443,
+   "ci_high": 1.3831,
+   "p": 0.2957
+  },
+  {
+   "spec": "Primary, excluding 2024+ format",
+   "outcome": "Extra time",
+   "n_pre": 210,
+   "n_post": 83,
+   "pre": 0.1048,
+   "post": 0.1446,
+   "ratio": 1.3161,
+   "ci_low": 0.6099,
+   "ci_high": 2.84,
+   "p": 0.4839
+  },
+  {
+   "spec": "Primary, excluding 2024+ format",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 210,
+   "n_post": 83,
+   "pre": 0.0333,
+   "post": 0.0602,
+   "ratio": 1.7657,
+   "ci_low": 0.5354,
+   "ci_high": 5.4696,
+   "p": 0.3356
+  },
+  {
+   "spec": "Primary, excluding 2024+ format",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 210,
+   "n_post": 83,
+   "pre": 0.5667,
+   "post": 0.5542,
+   "ratio": 0.8906,
+   "ci_low": 0.5273,
+   "ci_high": 1.504,
+   "p": 0.6646
+  },
+  {
+   "spec": "Primary, UCL only",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 106,
+   "n_post": 70,
+   "pre": 3.1132,
+   "post": 3.0571,
+   "ratio": 0.9879,
+   "ci_low": 0.8245,
+   "ci_high": 1.1836,
+   "p": 0.8951
+  },
+  {
+   "spec": "Primary, UCL only",
+   "outcome": "Level after 180 min",
+   "n_pre": 106,
+   "n_post": 70,
+   "pre": 0.1792,
+   "post": 0.1286,
+   "ratio": 0.6449,
+   "ci_low": 0.2719,
+   "ci_high": 1.5297,
+   "p": 0.3195
+  },
+  {
+   "spec": "Primary, UCL only",
+   "outcome": "Extra time",
+   "n_pre": 106,
+   "n_post": 70,
+   "pre": 0.066,
+   "post": 0.1286,
+   "ratio": 2.0742,
+   "ci_low": 0.7309,
+   "ci_high": 5.8865,
+   "p": 0.1704
+  },
+  {
+   "spec": "Primary, UCL only",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 106,
+   "n_post": 70,
+   "pre": 0.0189,
+   "post": 0.0714,
+   "ratio": 3.4768,
+   "ci_low": 0.8154,
+   "ci_high": 19.7224,
+   "p": 0.0928
+  },
+  {
+   "spec": "Primary, UCL only",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 106,
+   "n_post": 70,
+   "pre": 0.6226,
+   "post": 0.6,
+   "ratio": 0.9261,
+   "ci_low": 0.4911,
+   "ci_high": 1.7466,
+   "p": 0.8126
+  },
+  {
+   "spec": "Primary, UEL only",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 104,
+   "n_post": 69,
+   "pre": 2.8173,
+   "post": 2.9855,
+   "ratio": 1.0514,
+   "ci_low": 0.8813,
+   "ci_high": 1.2542,
+   "p": 0.578
+  },
+  {
+   "spec": "Primary, UEL only",
+   "outcome": "Level after 180 min",
+   "n_pre": 104,
+   "n_post": 69,
+   "pre": 0.1923,
+   "post": 0.1739,
+   "ratio": 0.823,
+   "ci_low": 0.3684,
+   "ci_high": 1.8382,
+   "p": 0.6346
+  },
+  {
+   "spec": "Primary, UEL only",
+   "outcome": "Extra time",
+   "n_pre": 104,
+   "n_post": 69,
+   "pre": 0.1442,
+   "post": 0.1739,
+   "ratio": 1.158,
+   "ci_low": 0.4956,
+   "ci_high": 2.7058,
+   "p": 0.7349
+  },
+  {
+   "spec": "Primary, UEL only",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 104,
+   "n_post": 69,
+   "pre": 0.0481,
+   "post": 0.0725,
+   "ratio": 1.5138,
+   "ci_low": 0.4298,
+   "ci_high": 5.3309,
+   "p": 0.5092
+  },
+  {
+   "spec": "Primary, UEL only",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 104,
+   "n_post": 69,
+   "pre": 0.5096,
+   "post": 0.5652,
+   "ratio": 1.1179,
+   "ci_low": 0.593,
+   "ci_high": 2.1075,
+   "p": 0.7304
+  },
+  {
+   "spec": "Primary, + linear season trend",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 2.9667,
+   "post": 3.0216,
+   "ratio": 0.7545,
+   "ci_low": 0.572,
+   "ci_high": 0.9951,
+   "p": 0.0461
+  },
+  {
+   "spec": "Primary, + linear season trend",
+   "outcome": "Level after 180 min",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.1857,
+   "post": 0.1511,
+   "ratio": 0.4798,
+   "ci_low": 0.1317,
+   "ci_high": 1.7479,
+   "p": 0.2656
+  },
+  {
+   "spec": "Primary, + linear season trend",
+   "outcome": "Extra time",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.1048,
+   "post": 0.1511,
+   "ratio": 1.2466,
+   "ci_low": 0.2711,
+   "ci_high": 5.7315,
+   "p": 0.777
+  },
+  {
+   "spec": "Primary, + linear season trend",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.0333,
+   "post": 0.0719,
+   "ratio": 1.773,
+   "ci_low": 0.1897,
+   "ci_high": 19.5498,
+   "p": 0.6215
+  },
+  {
+   "spec": "Primary, + linear season trend",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.5667,
+   "post": 0.5827,
+   "ratio": 0.764,
+   "ci_low": 0.2794,
+   "ci_high": 2.0888,
+   "p": 0.5998
+  },
+  {
+   "spec": "Primary, season-clustered SE",
+   "outcome": "Second-leg goals (90 min)",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 2.9667,
+   "post": 3.0216,
+   "ratio": 1.0171,
+   "ci_low": 0.8819,
+   "ci_high": 1.173,
+   "p": 0.816
+  },
+  {
+   "spec": "Primary, season-clustered SE",
+   "outcome": "Level after 180 min",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.1857,
+   "post": 0.1511,
+   "ratio": 0.7425,
+   "ci_low": 0.4897,
+   "ci_high": 1.1256,
+   "p": 0.1607
+  },
+  {
+   "spec": "Primary, season-clustered SE",
+   "outcome": "Extra time",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.1048,
+   "post": 0.1511,
+   "ratio": 1.4343,
+   "ci_low": 0.9461,
+   "ci_high": 2.1745,
+   "p": 0.0893
+  },
+  {
+   "spec": "Primary, season-clustered SE",
+   "outcome": "Penalty shoot-out",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.0333,
+   "post": 0.0719,
+   "ratio": 2.1649,
+   "ci_low": 0.8329,
+   "ci_high": 5.8999,
+   "p": 0.1127
+  },
+  {
+   "spec": "Primary, season-clustered SE",
+   "outcome": "Second-leg host advanced",
+   "n_pre": 210,
+   "n_post": 139,
+   "pre": 0.5667,
+   "post": 0.5827,
+   "ratio": 1.0231,
+   "ci_low": 0.7274,
+   "ci_high": 1.4391,
+   "p": 0.8955
+  }
+ ],
+ "placebo": [
+  {
+   "test": "Placebo: pre era, 2016/17+ vs 2012/13-2015/16",
+   "outcome": "Level after 180 min",
+   "early": 0.1607,
+   "late": 0.2143,
+   "n_early": 112,
+   "n_late": 98,
+   "diff_pp": 5.3571,
+   "p_fisher": 0.3751
+  },
+  {
+   "test": "Placebo: pre era, 2016/17+ vs 2012/13-2015/16",
+   "outcome": "Extra time",
+   "early": 0.0982,
+   "late": 0.1122,
+   "n_early": 112,
+   "n_late": 98,
+   "diff_pp": 1.4031,
+   "p_fisher": 0.8229
+  },
+  {
+   "test": "Placebo: pre era, 2016/17+ vs 2012/13-2015/16",
+   "outcome": "Penalty shoot-out",
+   "early": 0.0446,
+   "late": 0.0204,
+   "n_early": 112,
+   "n_late": 98,
+   "diff_pp": -2.4235,
+   "p_fisher": 0.4527
+  },
+  {
+   "test": "Placebo: pre era, 2016/17+ vs 2012/13-2015/16",
+   "outcome": "Second-leg goals (90 min)",
+   "early": 2.8393,
+   "late": 3.1122,
+   "n_early": 112,
+   "n_late": 98,
+   "diff_pp": 0.273,
+   "p_fisher": 0.2539
+  },
+  {
+   "test": "Placebo: post era, 2024/25+ vs 2021/22-2023/24",
+   "outcome": "Level after 180 min",
+   "early": 0.1446,
+   "late": 0.1607,
+   "n_early": 83,
+   "n_late": 56,
+   "diff_pp": 1.6136,
+   "p_fisher": 0.813
+  },
+  {
+   "test": "Placebo: post era, 2024/25+ vs 2021/22-2023/24",
+   "outcome": "Extra time",
+   "early": 0.1446,
+   "late": 0.1607,
+   "n_early": 83,
+   "n_late": 56,
+   "diff_pp": 1.6136,
+   "p_fisher": 0.813
+  },
+  {
+   "test": "Placebo: post era, 2024/25+ vs 2021/22-2023/24",
+   "outcome": "Penalty shoot-out",
+   "early": 0.0602,
+   "late": 0.0893,
+   "n_early": 83,
+   "n_late": 56,
+   "diff_pp": 2.9045,
+   "p_fisher": 0.5237
+  },
+  {
+   "test": "Placebo: post era, 2024/25+ vs 2021/22-2023/24",
+   "outcome": "Second-leg goals (90 min)",
+   "early": 2.747,
+   "late": 3.4286,
+   "n_early": 83,
+   "n_late": 56,
+   "diff_pp": 0.6816,
+   "p_fisher": 0.0278
+  }
+ ],
+ "power": {
+  "leg2_goals90_goals": 0.5411,
+  "leg2_goals90_d": 0.3072,
+  "extra_time_baseline": 0.1048,
+  "extra_time_detectable_post_rate": 0.2155,
+  "extra_time_mde_pp": 11.0754,
+  "level_180_baseline": 0.1857,
+  "level_180_detectable_post_rate": 0.3176,
+  "level_180_mde_pp": 13.1904,
+  "penalties_baseline": 0.0333,
+  "penalties_detectable_post_rate": 0.1092,
+  "penalties_mde_pp": 7.5859,
+  "extra_time_power_observed_effect": 0.2467,
+  "penalties_power_observed_effect": 0.3628
+ },
+ "season_series_primary": [
+  {
+   "season": "2012/13",
+   "rule_era": "pre",
+   "n": 28,
+   "et": 0.1071,
+   "pens": 0.0357,
+   "level": 0.1786,
+   "goals2": 2.9643,
+   "awaydec": 0.0714
+  },
+  {
+   "season": "2013/14",
+   "rule_era": "pre",
+   "n": 28,
+   "et": 0.0714,
+   "pens": 0.0357,
+   "level": 0.1429,
+   "goals2": 2.75,
+   "awaydec": 0.0714
+  },
+  {
+   "season": "2014/15",
+   "rule_era": "pre",
+   "n": 28,
+   "et": 0.1071,
+   "pens": 0.0357,
+   "level": 0.1429,
+   "goals2": 2.8571,
+   "awaydec": 0.0357
+  },
+  {
+   "season": "2015/16",
+   "rule_era": "pre",
+   "n": 28,
+   "et": 0.1071,
+   "pens": 0.0714,
+   "level": 0.1786,
+   "goals2": 2.7857,
+   "awaydec": 0.0714
+  },
+  {
+   "season": "2016/17",
+   "rule_era": "pre",
+   "n": 28,
+   "et": 0.1429,
+   "pens": 0.0357,
+   "level": 0.2143,
+   "goals2": 2.7857,
+   "awaydec": 0.0714
+  },
+  {
+   "season": "2017/18",
+   "rule_era": "pre",
+   "n": 28,
+   "et": 0.0714,
+   "pens": 0.0,
+   "level": 0.1786,
+   "goals2": 3.0,
+   "awaydec": 0.1071
+  },
+  {
+   "season": "2018/19",
+   "rule_era": "pre",
+   "n": 28,
+   "et": 0.1429,
+   "pens": 0.0357,
+   "level": 0.2857,
+   "goals2": 3.6786,
+   "awaydec": 0.1429
+  },
+  {
+   "season": "2019/20",
+   "rule_era": "pre",
+   "n": 14,
+   "et": 0.0714,
+   "pens": 0.0,
+   "level": 0.1429,
+   "goals2": 2.8571,
+   "awaydec": 0.0714
+  },
+  {
+   "season": "2021/22",
+   "rule_era": "post",
+   "n": 27,
+   "et": 0.1852,
+   "pens": 0.0,
+   "level": 0.1852,
+   "goals2": 2.6667,
+   "awaydec": 0.1111
+  },
+  {
+   "season": "2022/23",
+   "rule_era": "post",
+   "n": 28,
+   "et": 0.1071,
+   "pens": 0.0357,
+   "level": 0.1071,
+   "goals2": 2.5714,
+   "awaydec": 0.0714
+  },
+  {
+   "season": "2023/24",
+   "rule_era": "post",
+   "n": 28,
+   "et": 0.1429,
+   "pens": 0.1429,
+   "level": 0.1429,
+   "goals2": 3.0,
+   "awaydec": 0.1071
+  },
+  {
+   "season": "2024/25",
+   "rule_era": "post",
+   "n": 28,
+   "et": 0.2143,
+   "pens": 0.1429,
+   "level": 0.2143,
+   "goals2": 3.25,
+   "awaydec": 0.0714
+  },
+  {
+   "season": "2025/26",
+   "rule_era": "post",
+   "n": 28,
+   "et": 0.1071,
+   "pens": 0.0357,
+   "level": 0.1071,
+   "goals2": 3.6071,
+   "awaydec": 0.0714
+  }
+ ],
+ "goal_distribution": {
+  "table": {
+   "post": {
+    "0": 7,
+    "1": 23,
+    "2": 30,
+    "3": 29,
+    "4": 24,
+    "5": 12,
+    "6": 14
+   },
+   "pre": {
+    "0": 13,
+    "1": 30,
+    "2": 43,
+    "3": 51,
+    "4": 39,
+    "5": 17,
+    "6": 17
+   }
+  },
+  "chi2": 1.4284,
+  "df": 6,
+  "p": 0.9641,
+  "ks_p": 1.0
+ }
+}
